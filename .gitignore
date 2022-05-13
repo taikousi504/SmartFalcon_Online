@@ -362,4 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 
-./SmartFalcon_Online/appsettings.Development.json
+appsettings.Development
