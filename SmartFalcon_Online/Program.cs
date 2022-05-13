@@ -1027,7 +1027,7 @@ namespace SmartFalcon_Online
                 else if (message.Content.Contains("使い方") || message.Content.Contains("つかいかた"))
                 {
                     //送信
-                    await message.Channel.SendMessageAsync("使い方はここを見てね！\nhttps://github.com/taikousi504/SmartFalconBot/blob/master/README.md");
+                    await message.Channel.SendMessageAsync("使い方はここを見てね！\nhttps://github.com/taikousi504/SmartFalcon_Online/blob/master/README.md");
                 }
             }
             else
